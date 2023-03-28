@@ -21,4 +21,4 @@ require 'cart.php';
 ?>
 <?php require '../footer.php'; ?>
 
-<?php echo 'GitHubのテスト'; ?>
+<?php echo 'GitHubのテスト: of defaultでbaseがmainになるかどうか'; ?>
