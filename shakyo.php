@@ -20,3 +20,5 @@ echo '<hr>';
 require 'cart.php';
 ?>
 <?php require '../footer.php'; ?>
+
+<?php echo 'GitHubのテスト'; ?>
